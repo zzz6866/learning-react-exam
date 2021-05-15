@@ -7,9 +7,9 @@
 | 1장 리액트 시작| &#9745; |  | |
 | 2장 JSX| &#9745; | [Link](https://github.com/zzz6866/learning-react-exam/tree/main/02/hello-react) | |
 | 3장 컴포넌트| &#9745; | [Link](https://github.com/zzz6866/learning-react-exam/tree/main/03/hello-react) | |
-| 4장 이벤트 핸들링| &#9744; | [Link](https://github.com/zzz6866/learning-react-exam/tree/main/04/hello-react) | |
+| 4장 이벤트 핸들링| &#9745; | [Link](https://github.com/zzz6866/learning-react-exam/tree/main/04/hello-react) | |
 | 5장 ref: DOM에 이름 달기| &#9745; | [Link](https://github.com/zzz6866/learning-react-exam/tree/main/05/hello-react) | |
-| 6장 컴포넌트 반복| &#9744; | [Link]() | |
+| 6장 컴포넌트 반복| &#9744; | [#]() | |
 | 7장 컴포넌트의 라이프사이클 메서드| &#9744; | [#]() | |
 | 8장 함수형 컴포넌트| &#9744; | [#]() | |
 | 9장 컴포넌트 스타일링| &#9744; | [#]() | |
