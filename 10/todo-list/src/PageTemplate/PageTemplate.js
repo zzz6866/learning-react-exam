@@ -1,4 +1,4 @@
-import {Component} from "react";
+// import {Component} from "react";
 import styles from './PageTemplate.scss';
 import classNames from "classnames/bind";
 
