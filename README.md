@@ -16,7 +16,7 @@
 | 10장 일정 관리 웹 애플리케이션 생성| &#9745; | [Link](https://github.com/zzz6866/learning-react-exam/tree/main/10/todo-list) | |
 | 11장 컴포넌트 리렌더링 최적화| &#9745; | [Link](https://github.com/zzz6866/learning-react-exam/tree/main/10/todo-list) | 10장과 같이 커밋 |
 | 12장 리덕스 개념 이해| &#9745; | [#]() | 예제 소스가 없음, 책 내용으로  |
-| 13장 리덕스로 리액트 애플리케이션 상태 관리| &#9744; | [#]() | |
+| 13장 리덕스로 리액트 애플리케이션 상태 관리| &#9745; | [Link](https://github.com/zzz6866/learning-react-exam/tree/main/13/redux-counter) | |
 | 14장 리덕스, 더 편하게 사용| &#9744; | [#]() | |
 | 15장 리덕스 미들웨어와 외부 데이터 연동| &#9744; | [#]() | |
 | 16장 react-router로 SPA 개발| &#9744; | [#]() | |
