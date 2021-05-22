@@ -1,4 +1,4 @@
-# 목차
+# 9장 컴포넌트 스타일링
 - 9.1 CSS Module
 - 9.1.1 CSS Module 활성화
 - 9.1.2 CSS Module 사용
