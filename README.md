@@ -19,7 +19,7 @@
 | 13장 리덕스로 리액트 애플리케이션 상태 관리| &#9745; | [Link](https://github.com/zzz6866/learning-react-exam/tree/main/13/redux-counter) | |
 | 14장 리덕스, 더 편하게 사용| &#9745; | [Link](https://github.com/velopert/learning-react/tree/v1/14/todo-list) | |
 | 15장 리덕스 미들웨어와 외부 데이터 연동| &#9745; | [Link](https://github.com/velopert/learning-react/tree/v1/15/redux-starter-kit) | 책 내용으로 대체 |
-| 16장 react-router로 SPA 개발| &#9744; | [#]() | |
+| 16장 react-router로 SPA 개발| &#9745; | [Link](https://github.com/zzz6866/learning-react-exam/tree/main/16/react-router-tutorial) | |
 | 17장 코드 스플리팅| &#9744; | [#]() | |
 | 18장 백엔드 프로그래밍: Node.js의 Koa 프레임워크| &#9744; | [#]() | |
 | 19장 mongoose를 이용한 MongoDB 연동 실습| &#9744; | [#]() | |
